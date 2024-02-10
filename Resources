@@ -11,6 +11,7 @@ https://github.com/facyber/awesome-networking
 https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources
 
 #Advanced Networking
+
 https://gist.github.com/jmmey/8e30f7aab026b7f584a9bec2cec37647
 ~
 https://u.cisco.com/path/3
@@ -29,6 +30,23 @@ https://github.com/lynnlangit/learning-cloud
 https://github.com/learntocloud/learn-to-cloud
 
 # Reversing / Understanding Programming Langs
+
 https://github.com/danbev/learning-assembly
 ~
 https://github.com/HACKE-RC/awesome-reversing
+
+# Learn Priv-esc
+
+https://www.crowdstrike.com/cybersecurity-101/privilege-escalation/
+~
+https://github.com/RoqueNight/Linux-Privilege-Escalation-Basics
+~
+https://gist.github.com/sh1nz0n/4a94582ec9d9248c4241b0a2293eceec
+~
+https://github.com/m0nad/awesome-privilege-escalation
+
+# Learn OSINT /Open Source Intel/
+
+https://github.com/Adham504/Awesome-OSINT
+~
+https://github.com/NCols/awesome_osint
