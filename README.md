@@ -1,5 +1,6 @@
 <p align="center">
   <img src="assets/banner.png" alt="Knowledge Is Free Banner" width="100%">
+  <img src="assets/certpath.png" alt="Certpath banner" width="100%">
 </p>
 
 <h1 align="center">Knowledge Is Free</h1>
